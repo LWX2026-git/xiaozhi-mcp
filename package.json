@@ -1,0 +1,16 @@
+{
+  "name": "xiaozhi-mcp-server",
+  "version": "1.0.0",
+  "description": "Xiaozhi AI MCP Server for Chatroom",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.14.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
